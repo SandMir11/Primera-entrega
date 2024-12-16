@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "title": "Blusa de Seda",
+      "description": "Blusa elegante de seda con detalles en encaje",
+      "price": 50,
+      "img": "https://example.com/blusa-seda.jpg",
+      "code": "BL1001",
+      "stock": 20,
+      "status": true,
+      "category": "Ropa",
+      "thumbnails": ["https://example.com/blusa-thumb1.jpg", "https://example.com/blusa-thumb2.jpg"]
+    },
+    {
+      "id": 2,
+      "title": "Bolso de Cuero",
+      "description": "Bolso de cuero auténtico ideal para cualquier ocasión",
+      "price": 120,
+      "img": "https://example.com/bolso-cuero.jpg",
+      "code": "BO2002",
+      "stock": 15,
+      "status": true,
+      "category": "Accesorios",
+      "thumbnails": ["https://example.com/bolso-thumb1.jpg"]
+    },
+    {
+      "id": 3,
+      "title": "Vestido Floral",
+      "description": "Vestido casual con estampado floral, perfecto para verano",
+      "price": 80,
+      "img": "https://example.com/vestido-floral.jpg",
+      "code": "VE3003",
+      "stock": 25,
+      "status": true,
+      "category": "Ropa",
+      "thumbnails": ["https://example.com/vestido-thumb1.jpg"]
+    },
+    {
+      "id": 4,
+      "title": "Zapatillas de Tacón",
+      "description": "Zapatillas elegantes con tacón de aguja",
+      "price": 90,
+      "img": "https://example.com/zapatillas.jpg",
+      "code": "ZA4004",
+      "stock": 30,
+      "status": true,
+      "category": "Calzado",
+      "thumbnails": ["https://example.com/zapatillas-thumb1.jpg", "https://example.com/zapatillas-thumb2.jpg"]
+    },
+    {
+      "id": 5,
+      "title": "Chaqueta de Cuero",
+      "description": "Chaqueta de cuero sintético con diseño moderno",
+      "price": 150,
+      "img": "https://example.com/chaqueta-cuero.jpg",
+      "code": "CH5005",
+      "stock": 10,
+      "status": true,
+      "category": "Ropa",
+      "thumbnails": ["https://example.com/chaqueta-thumb1.jpg"]
+    },
+    {
+      "id": 6,
+      "title": "Collar de Plata",
+      "description": "Collar minimalista de plata con dije en forma de corazón",
+      "price": 45,
+      "img": "https://example.com/collar-plata.jpg",
+      "code": "CO6006",
+      "stock": 50,
+      "status": true,
+      "category": "Joyería",
+      "thumbnails": ["https://example.com/collar-thumb1.jpg"]
+    },
+    {
+      "id": 7,
+      "title": "Gafas de Sol",
+      "description": "Gafas de sol con protección UV y diseño moderno",
+      "price": 70,
+      "img": "https://example.com/gafas-sol.jpg",
+      "code": "GA7007",
+      "stock": 35,
+      "status": true,
+      "category": "Accesorios",
+      "thumbnails": ["https://example.com/gafas-thumb1.jpg"]
+    },
+    {
+      "id": 8,
+      "title": "Falda Plisada",
+      "description": "Falda midi plisada con diseño elegante",
+      "price": 60,
+      "img": "https://example.com/falda-plisada.jpg",
+      "code": "FA8008",
+      "stock": 18,
+      "status": true,
+      "category": "Ropa",
+      "thumbnails": ["https://example.com/falda-thumb1.jpg", "https://example.com/falda-thumb2.jpg"]
+    },
+    {
+      "id": 9,
+      "title": "Botas de Invierno",
+      "description": "Botas térmicas ideales para climas fríos",
+      "price": 110,
+      "img": "https://example.com/botas-invierno.jpg",
+      "code": "BO9009",
+      "stock": 12,
+      "status": true,
+      "category": "Calzado",
+      "thumbnails": ["https://example.com/botas-thumb1.jpg"]
+    },
+    {
+      "id": 10,
+      "title": "Reloj Minimalista",
+      "description": "Reloj de pulsera con diseño minimalista y elegante",
+      "price": 200,
+      "img": "https://example.com/reloj-minimalista.jpg",
+      "code": "RE1010",
+      "stock": 8,
+      "status": true,
+      "category": "Accesorios",
+      "thumbnails": ["https://example.com/reloj-thumb1.jpg"]
+    }
+  ]
+  
